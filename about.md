@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Lab Intern at Data Intelligence Lab, Korea University.
+Lab Intern at Data Intelligence Lab, Korea University.  
+
+
 Portfolio at [Notion](https://www.notion.so/keom/Hey-there-I-m-Ji-Hun-654f3eb3131c4ef7b6f604deb07711b2).
 
 
