@@ -15,7 +15,7 @@ Lab Intern at Data Intelligence Lab, Korea University
 <h2>Portfolio</h2>
 
 <ul class="project-list">
-	<li>[Notion](https://www.notion.so/keom/Hey-there-I-m-Ji-Hun-654f3eb3131c4ef7b6f604deb07711b2).</li>
+	[Notion](https://www.notion.so/keom/Hey-there-I-m-Ji-Hun-654f3eb3131c4ef7b6f604deb07711b2)
 	
 </ul>
 
