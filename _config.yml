@@ -1,9 +1,9 @@
 # main text of home
-name: JiHun
-bio: Data Enthusiast
+name: JiHun Keom
+bio: Hi welcome!
 
 # twitter summary info
-description: Tech and related stuff
+description: keom 
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://jihun.github.io
+url: https://soomsoomee.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -40,14 +40,14 @@ disqus:
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
- spotify: https://open.spotify.com/playlist/6G8QQC24lTNf7ZvbxBTHiF
+# spotify: myspotify
 github: jihun0902
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: samkeom@korea.ac.kr
@@ -65,7 +65,6 @@ authors:
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
-  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -85,7 +84,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-#blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
