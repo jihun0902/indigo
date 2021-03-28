@@ -6,17 +6,31 @@ layout: page
 
 Lab Intern at Data Intelligence Lab, Korea University
 
-Education
-Bachelor of Statistics, Korea University (Mar. 2016 ~ )
+<h2>Education</h2>
 
-Projects
+<ul class="education-list">
+	<li>Bachelor of Statistics, Korea University (Mar. 2016 ~ ) </li>
+</ul>
 
-Skills
-Programming Language : Python, C++, R
-Data : Keras, Pytorch, TensorFlow
-3-D : Unity
+<h2>Projects</h2>
 
-Interests
-Data Science
-NLP
+<ul class="project-list">
+	<li>https://www.notion.so/keom/Hey-there-I-m-Ji-Hun-654f3eb3131c4ef7b6f604deb07711b2</li>
+	
+</ul>
+
+<h2>Skills</h2>
+
+<ul class="skill-list">
+	<li>Programming Language : Python, R, C++</li>
+	<li>Data : Keras, Pytorch, TensorFlow</li>
+	<li>3-D : Unity</li>
+</ul>
+
+<h2>Interests</h2>
+
+<ul class="interest-list">
+	<li>NLP</li>
+	<li>Statistics</li>
+</ul>
 
