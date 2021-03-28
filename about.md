@@ -12,10 +12,10 @@ Lab Intern at Data Intelligence Lab, Korea University
 	<li>Bachelor of Statistics, Korea University (Mar. 2016 ~ ) </li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Portfolio</h2>
 
 <ul class="project-list">
-	<li>https://www.notion.so/keom/Hey-there-I-m-Ji-Hun-654f3eb3131c4ef7b6f604deb07711b2</li>
+	<li>[Notion] (https://www.notion.so/keom/Hey-there-I-m-Ji-Hun-654f3eb3131c4ef7b6f604deb07711b2)</li>
 	
 </ul>
 
