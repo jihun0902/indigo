@@ -30,7 +30,9 @@ layout: page
 <h2>Interests</h2>
 
 <ul class="interest-list">
-	<li>NLP</li>
+	<li>Data Science & Engineering</li>
+	<li>Artificial Intelligence</li>
+	<li>NLP</li> 
 	<li>Statistics</li>
 </ul>
 
